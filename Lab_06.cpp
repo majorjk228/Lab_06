@@ -1,5 +1,4 @@
 ﻿// Лабораторная работа №6. Вариант 3
-// https://www.cyberforum.ru/java-j2se/thread1665737.html
 
 #include <iostream>
 #include <string.h>     // Библиотека для работы со строками.
